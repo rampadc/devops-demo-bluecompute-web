@@ -9,5 +9,3 @@ Here is an overview of the project's features:
     Node.js based BFF application to access APIs.
     Authentication and Authorization through OAuth 2.0.
     Distributed as Docker container and deployed to Kubernetes cluster.
-
-Test7
